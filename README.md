@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img src="https://img.freepik.com/free-vector/mountain-bike-concept-illustration_114360-9361.jpg?w=2000&t=st=1670450169~exp=1670450769~hmac=db8e85125d52ee15e36ff41c61a9bc2bdf8a5fcfa576001157efea25c98e9eea" width="500" alt="Logo">
+    <img src="https://github.com/snehal5797/FetchRewardsAssessment/blob/master/Screenshot%202023-01-22%20at%207.11.16%20PM.png?w=2000&t=st=1670450169~exp=1670450769~hmac=db8e85125d52ee15e36ff41c61a9bc2bdf8a5fcfa576001157efea25c98e9eea" width="500" alt="Logo">
 <p align="center">
 
 <h2 align="center">Fetch Rewards UserCreation</h2>
