@@ -126,7 +126,7 @@ export default function App() {
               value={formData.dropdown1}
               onChange={handleChange}
             >
-              {getState}
+              {getOcc}
             </select>
           </label>
           <br />
@@ -137,7 +137,7 @@ export default function App() {
               value={formData.dropdown2}
               onChange={handleChange}
             >
-              {getOcc}
+              {getState}
             </select>
           </label>
           <br />
